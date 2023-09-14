@@ -9,13 +9,13 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt=https://www.linkedin.com/in/bruno-maion-4081b7289/ height="30" width="40" /></a>
 </p>
-<h5>SOs:<h5>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"
-    width="40" height="40" />
-</a>
 
-<h5>Languages:<h5>
+<h5>Languages and Tools:<h5>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"
+      width="40" height="40" />
+  </a>
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"
     height="40" />
@@ -37,10 +37,6 @@
     width="40" height="40" />
 </a>
 
-<h5>Database: <h5>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="PostgreSQL" width="40" height="40" />
-</a>
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"
     width="40" height="40" />
@@ -51,7 +47,6 @@
     width="40" height="40" />
 </a>
 
-<h5>Frameworks:<h5>
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
 </a>
@@ -66,4 +61,6 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40" />
 </a>
-
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="PostgreSQL" width="40" height="40" />
+</a>
