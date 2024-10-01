@@ -44,15 +44,6 @@
 </a>
 
 
-
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"
-    width="40" height="40" />
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40" />
-</a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="PostgreSQL" width="40" height="40" />
 </a>
